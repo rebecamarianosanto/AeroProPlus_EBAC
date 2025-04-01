@@ -16,5 +16,9 @@ Criar um modal para incentivar o usuário a manter sua assinatura de um serviço
 ## 🎬 Palestrantes
 Lory Nakahara e Nayara de Deus
 
-
+## 📚 Projeto AeroPro+
 ![aero_pro_plus](https://github.com/user-attachments/assets/552cd9ca-39f8-4271-a95f-5c3c577ce359)
+
+## 🎉 Certificado de participação
+![image](https://github.com/user-attachments/assets/57cde78a-d666-44bb-9f1c-8c5f5a323604)
+
